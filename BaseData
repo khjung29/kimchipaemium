@@ -1,7 +1,6 @@
 { 
-  "coin" : [
-   {
-      "title" : "김치프리미엄,
+  "coin" : {
+      "title" : "김치프리미엄",
       "fbNativeInterval" : "6",
       "fbNativeReload" : "false",
       "notiOn" : "false",
@@ -18,6 +17,5 @@
       "upbitLogoUrl" : "https://static.upbit.com/logos/",
       "ppomppuLogoUrl" : "https://cdn.ppomppu.co.kr/zboard/data3/cryptex/",
       "item":[{"id":"","title":""}]
-    }   
-  ]
+   }   
 }
