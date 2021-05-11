@@ -1,0 +1,23 @@
+{ 
+  "coin" : [
+   {
+      "title" : "김치프리미엄,
+      "fbNativeInterval" : "6",
+      "fbNativeReload" : "false",
+      "notiOn" : "false",
+      "notiTitle" : "공지",
+      "notiMsg" : "감사합니다",
+      "notiPositiveText" : "확인",
+      "notiNegativeText" : "취소",
+      "type" : "0",
+      "typecnt" : "0",
+      "typenames" : [""],
+      "ppomppuUrl" : "https://www.ppomppu.co.kr/",
+      "upbitUrl" : "https://crix-api-cdn.upbit.com/",
+      "newsUrl" : "https://api-manager.upbit.com/",
+      "upbitLogoUrl" : "https://static.upbit.com/logos/",
+      "ppomppuLogoUrl" : "https://cdn.ppomppu.co.kr/zboard/data3/cryptex/",
+      "item":[{"id":"","title":""}]
+    }   
+  ]
+}
